@@ -1,3 +1,10 @@
+# Node.js modules
 node_modules/
-database.sqlite
+
+# Archivos de entorno
 .env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
